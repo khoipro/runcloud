@@ -60,9 +60,13 @@ systemctl restart redis
 
 ## Memcached
 
+Status
+
 ```
 systemctl status memcached
 ```
+
+Restart
 
 ```
 systemctl restart memcached
