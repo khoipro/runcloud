@@ -1,3 +1,3 @@
 # RunCloud Cheatsheet (for me)
 
-- [Manage services in Terminal](#services)
+- [Manage services in Terminal](services.md)
